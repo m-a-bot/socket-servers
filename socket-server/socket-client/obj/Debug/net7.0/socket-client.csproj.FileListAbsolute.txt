@@ -1,0 +1,15 @@
+D:\GM\socket-server\socket-client\bin\Debug\net7.0\socket-client.exe
+D:\GM\socket-server\socket-client\bin\Debug\net7.0\socket-client.deps.json
+D:\GM\socket-server\socket-client\bin\Debug\net7.0\socket-client.runtimeconfig.json
+D:\GM\socket-server\socket-client\bin\Debug\net7.0\socket-client.dll
+D:\GM\socket-server\socket-client\bin\Debug\net7.0\socket-client.pdb
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.csproj.AssemblyReference.cache
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.GeneratedMSBuildEditorConfig.editorconfig
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.AssemblyInfoInputs.cache
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.AssemblyInfo.cs
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.csproj.CoreCompileInputs.cache
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.dll
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\refint\socket-client.dll
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.pdb
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\socket-client.genruntimeconfig.cache
+D:\GM\socket-server\socket-client\obj\Debug\net7.0\ref\socket-client.dll

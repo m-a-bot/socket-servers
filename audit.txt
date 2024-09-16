@@ -1,0 +1,12 @@
+Admin table1 select Разрешён доступ!
+Peter table1 delete 2 Не разрешён доступ!
+Peter table1 select Не разрешён доступ!
+Vova table3 select Не разрешён доступ!
+'Admin table1 select'. Разрешён доступ!
+'Peter table1 delete 2'. Не разрешён доступ!
+'Peter table1 select'. Разрешён доступ!
+'Vova table3 select'. Не разрешён доступ!
+'Admin table1 select'. Разрешён доступ!
+'Admin table1 select'. Разрешён доступ!
+'Admin table1 select'. Разрешён доступ!
+'Admin table1 select'. Разрешён доступ!
